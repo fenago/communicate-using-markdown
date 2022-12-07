@@ -27,7 +27,7 @@ GitHub is about more than code. It’s a platform for software collaboration, an
 
 <summary><h2>Step 1: Add headers</h2></summary>
 
-_Welcome to "Communicate using Markdown"! :wave:_
+_Welcome to "Communicate using Markdown"!
 
 **What is _Markdown_?** Markdown is a `lightweight syntax` for communicating on GitHub. You can format text to add heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown most places around GitHub:
 
