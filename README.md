@@ -24,6 +24,14 @@ GitHub is about more than code. It’s a platform for software collaboration, an
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
 
+### Activity: Open pull request
+
+1. Create new **pull request** to merge `start-markdown` branch into `main`.
+1. Make sure to select your repository while creating pull request as `base` repository.
+
+![](./images/3.jpg)
+
+![](./images/4.jpg)
 
 <summary><h2>Step 1: Add headers</h2></summary>
 
@@ -62,7 +70,8 @@ _Welcome to "Communicate using Markdown"!
 1. Above your new content, click **Preview**.
 1. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
 1. Click **Commit changes**.
-1. Wait about 20 seconds then refresh this page for the next step.
+
+![](./images/5.jpg)
 
 
 <summary><h2>Step 2: Add an image</h2></summary>
@@ -118,7 +127,8 @@ Initialized empty Git repository in /Users/fenago/Projects/recipe-repository/.gi
 1. In the file, add the correct Markdown for a code example of your choice.
 1. Use the **Preview** tab to check your Markdown formatting.
 1. Commit your changes.
-1. Wait about 20 seconds then refresh this page for the next step.
+
+![](./images/6.jpg)
 
 
 <summary><h2>Step 4: Make a task list</h2></summary>
@@ -158,7 +168,6 @@ GitHub Actions went ahead and made a branch and a pull request for you. So you'l
 
 1. Use the **Preview** tab to check your Markdown formatting.
 1. Commit the changes to the file.
-1. Wait about 20 seconds then refresh this page for the next step.
 
 
 <summary><h2>Step 5: Merge your pull request</h2></summary>
